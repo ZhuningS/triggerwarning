@@ -3,19 +3,19 @@
 // @description Warns you about triggers.
 // @icon https://raw.github.com/sepehr/userscript-SCRIPT/master/SCRIPT.png
 //
-// @author Sepehr Lajevardi <me@sepehr.ws>
-// @namespace http://github.com/sepehr
-// @downloadURL https://raw.github.com/sepehr/userscript-SCRIPT/master/SCRIPT.user.js
+// @author Charles Nelson <cnelsonsic@gmail.com>
+// @namespace http://github.com/cnelsonsic
+// @downloadURL https://github.com/cnelsonsic/triggerwarning/raw/master/Trigger_Warning.user.js
 //
 // @license GPLv3 - http://www.gnu.org/licenses/gpl-3.0.txt
-// @copyright Copyright (C) 2012, by Sepehr Lajevardi <me@sepehr.ws>
+// @copyright Copyright (C) 2014, by Charles Nelson <cnelsonsic@gmail.com>
 //
 // @include *://*/*
 //
 // @require http://code.jquery.com/jquery-1.8.0.min.js
 //
-// @version 1.0
-// @updateURL https://raw.github.com/sepehr/userscript-SCRIPT/master/SCRIPT.user.js
+// @version 1.1
+// @updateURL https://github.com/cnelsonsic/triggerwarning/raw/master/Trigger_Warning.user.js
 //
 // @run-at document-start|document-end
 // @unwrap
