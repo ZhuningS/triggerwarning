@@ -11,10 +11,11 @@
 // @copyright Copyright (C) 2014, by Charles Nelson <cnelsonsic@gmail.com>
 //
 // @include *://*/*
+// @exclude *://youtube.com/*
 //
 // @require http://code.jquery.com/jquery-1.8.0.min.js
 //
-// @version 1.1
+// @version 1.1.1
 // @updateURL https://github.com/cnelsonsic/triggerwarning/raw/master/Trigger_Warning.user.js
 //
 // @run-at document-start|document-end
